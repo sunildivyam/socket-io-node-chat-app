@@ -1,0 +1,29 @@
+{
+  "name": "socket-io-node-chat-app",
+  "version": "1.0.0",
+  "description": "A chat app using node and socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunildivyam/socket-io-node-chat-app.git"
+  },
+  "keywords": [
+    "chatapp",
+    "socketio",
+    "node"
+  ],
+  "author": "Sunil Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunildivyam/socket-io-node-chat-app/issues"
+  },
+  "homepage": "https://github.com/sunildivyam/socket-io-node-chat-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "socket.io": "^2.1.1"
+  }
+}
